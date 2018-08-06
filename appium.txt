@@ -1,0 +1,10 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus 5X"
+noReset = "true"
+app = "./qa_v140_build_390.apk"
+appPackage = "com.eyetime.qa"
+appActivity = "com.ttrumpet.sa.SplashScreen"
+autoLaunch = "True"
+autoGrantPermissions = "true"
+automationName = "uiautomator2"
